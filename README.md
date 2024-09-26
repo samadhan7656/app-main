@@ -120,25 +120,3 @@ truefeedback/
 ├── package.json
 └── README.md
 ```
-
-## API Endpoints
-
-- **GET /api/messages**: Fetch received messages for the authenticated user.
-- **POST /api/messages**: Send a new anonymous message.
-- **GET /api/generate-prompt**: Generate a random prompt using ChatGPT.
-
-## Contributing
-
-We welcome contributions! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes with clear messages.
-4. Push your changes to your fork.
-5. Create a pull request to the main branch of the original repository.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
