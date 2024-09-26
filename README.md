@@ -55,7 +55,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/prabal-verma/truefeedback.git
+   git https://github.com/samadhan7656/app-main.git
    cd truefeedback
 2. Install dependencies:
 
