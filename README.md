@@ -2,11 +2,11 @@
 First, run the development server:
 
 npm run dev
-# or
+ or
 yarn dev
-# or
+ or
 pnpm dev
-# or
+ or
 bun dev
 Open http://localhost:3000 with your browser to see the result.
 
