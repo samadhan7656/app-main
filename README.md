@@ -19,9 +19,6 @@ TrueFeedback is a Next.js application built with TypeScript that allows users to
   - [Running the Application](#running-the-application)
 - [Configuration](#configuration)
 - [Project Structure](#project-structure)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
